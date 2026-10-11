@@ -20,6 +20,8 @@ Embed your UML Diagram here. Upload the image of your UML Diagram to your repo, 
 
 ![UML Diagram for my project]()
 
+<<img width="968" height="782" alt="Copy of UML Diagram" src="https://github.com/user-attachments/assets/6debf8b0-5c55-451b-b424-3b52e105fa22" />
+
 ## Description
 
 1. Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is used to output information for your store in the console.
