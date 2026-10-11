@@ -18,8 +18,7 @@ Use your knowledge of object-oriented programming and class structure and design
 
 Embed your UML Diagram here. Upload the image of your UML Diagram to your repo, then use Markdown to insert your image here:
 
-![UML Diagram for my project](<img width="968" height="782" alt="Copy of UML Diagram" src="https://github.com/user-attachments/assets/142c6470-16fb-48d7-9df6-49986ef930e1" />
-)
+![UML Diagram for my project]()
 
 ## Description
 
